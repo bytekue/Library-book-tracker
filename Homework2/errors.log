@@ -1,0 +1,9 @@
+[2026-02-23 21:52:39] INVALID LINE: "" -> MalformedBookEntryException: Line must have 4 fields
+[2026-02-23 21:53:20] INVALID LINE: "" -> MalformedBookEntryException: Line must have 4 fields
+[2026-02-23 21:53:58] INVALID LINE: "" -> MalformedBookEntryException: Line must have 4 fields
+[2026-02-23 21:53:58] BAD OPERATION: "Test Book:Someone:9999999999999:1" -> DuplicateISBNException: Cannot add: ISBN already exists: 9999999999999
+[2026-02-23 21:54:36] INVALID LINE: "" -> MalformedBookEntryException: Line must have 4 fields
+[2026-02-23 22:01:01] INVALID LINE: "Bad Book::123:0" -> MalformedBookEntryException: Author is empty
+[2026-02-23 22:12:28] INVALID LINE: "Bad Book::123:0" -> MalformedBookEntryException: Author is empty
+[2026-02-23 22:17:55] INVALID LINE: "Bad Book::123:0" -> MalformedBookEntryException: Author is empty
+[2026-02-23 22:20:21] INVALID LINE: "Bad Book::123:0" -> MalformedBookEntryException: Author is empty
